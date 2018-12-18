@@ -1,0 +1,15 @@
+{
+  "name": "seb-test",
+  "version": "1.0.0",
+  "description": "Convert integer number from 1 to 999 to text",
+  "main": "index.js",
+  "repository": "https://github.com/vitorm11/seb-test.git",
+  "author": "Vitor Martinelli Braga <vitorm11@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
